@@ -1,0 +1,4 @@
+Regime,Period,Lyapunov,Std. dev of x,Range of x
+Stable cycle,6,-0.0003,1.142,2.8179
+Quasi-periodic,aperiodic,-0.0,1.3292,2.8571
+Deterministic chaos,aperiodic,0.0864,2.2268,6.4544

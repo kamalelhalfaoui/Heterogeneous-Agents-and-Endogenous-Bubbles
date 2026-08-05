@@ -1,0 +1,12 @@
+Scenario,Type,Mean share,Mean profit
+6 types,Fundamentalists,0.0614,0.7136
+6 types,Trend followers,0.0756,0.4984
+6 types,Adapters,0.0588,-0.3595
+6 types,Learners,0.0559,-0.0019
+6 types,Optimists,0.3643,0.7613
+6 types,Pessimists,0.3841,0.766
+5 types,Trend followers,0.0865,0.5201
+5 types,Adapters,0.071,-0.3618
+5 types,Learners,0.0623,0.0053
+5 types,Optimists,0.3813,0.79
+5 types,Pessimists,0.3989,0.7966

@@ -1,0 +1,7 @@
+,No memory,With memory
+Excess kurtosis,12.3998,32.508
+Skewness,-3.6389,-3.0515
+Jarque-Bera p,0.0,0.0
+Hill index (5% tail),2.2917,2.8257
+Mean |ACF| of returns (lags 1-20),0.1211,0.0855
+Mean ACF of |returns| (lags 1-20),-0.0182,0.2361
